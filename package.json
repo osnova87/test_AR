@@ -1,0 +1,16 @@
+{
+  "name": "test_ar",
+  "version": "1.0.0",
+  "description": "test work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shvaika Pavlo",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
